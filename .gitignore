@@ -1,0 +1,24 @@
+﻿# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+bin
+.idea/.idea.ShopManagement.dir/.idea/.gitignore
+.idea/.idea.ShopManagement.dir/.idea/.name
+.idea/.idea.ShopManagement.dir/.idea/contentModel.xml
+.idea/.idea.ShopManagement.dir/.idea/encodings.xml
+.idea/.idea.ShopManagement.dir/.idea/indexLayout.xml
+.idea/.idea.ShopManagement.dir/.idea/modules.xml
+.idea/.idea.ShopManagement.dir/.idea/projectSettingsUpdater.xml
+.idea/.idea.ShopManagement.dir/.idea/vcs.xml
+.idea/.idea.ShopManagement.dir/riderModule.iml
+.vs/
+.vscode/
+Folder.DotSettings.user
+bin/Release/
